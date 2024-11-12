@@ -19,7 +19,7 @@ Siga as instruções abaixo:
   $ cd python-repo
 
   # Acesse o diretório do projeto desejado
-  $ cd [nome do projeto]
+  $ cd [NomeDoProjeto]
 
   # Execute o programa
   $ python main.py
