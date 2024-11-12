@@ -5,7 +5,7 @@
 ## 📃 Descrição
 Este repositório reúne uma coleção de projetos e aplicações desenvolvidos em Python, com foco no aprimoramento contínuo das habilidades de programação e uso de bibliotecas dessa linguagem. Os projetos variam de aplicações simples a soluções mais complexas e abrangem diferentes áreas, incluindo análise de dados, automação, rede neurais, entre outras. Este espaço é destinado ao aprendizado, experimentação e documentação do progresso em Python.
 
-##📘Projetos
+## 📘 Projetos
 - <a href="https://github.com/gabrieloliveirapimentel/python-repo/tree/main/pc-info">PC Info</a>: obtém as informações do computador e mostra em tela;
 - <a href="https://github.com/gabrieloliveirapimentel/python-repo/tree/main/url-location">URL Location</a>: obtém as informações de localização de uma url;
 
